@@ -1,7 +1,9 @@
 #include <stdio.h>
 int main(void)
 {
-    printf("%d円見つけた!\n",10*3);
-    printf("%d+%d=%d\n",1000,2000,1000+2000);
+    int a = 20000, b = 300, c = 1;
+    printf("Aは、%dです。\n",a);
+    printf("Bは、%dです。\n",b);
+    printf("Cは、%dです。\n",c);
     return 0;
 }
