@@ -1,7 +1,6 @@
 #include <stdio.h>
 int main(void)
 {
-    printf("Hello World\n")
-    printf("Hello Kouji\n"); 
+    printf("%d円見つけた\n",10);
     return 0;
 }
